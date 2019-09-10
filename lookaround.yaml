@@ -1,0 +1,21 @@
+title:
+author:
+content: |
+  You focus on your five senses, trying to gather information about your surroundings.
+choices:
+  - capture: (go)? back
+    label: go back
+    to: scene.yaml
+  - capture: smell
+    label: Nose
+    to: r1smell.yaml
+  - capture: (touch)|(feel)|(reach (around)?)
+    to: r1touch.yaml
+  # - capture: (hear)|(listen)
+  #   then:
+  #     content: Try as you might, you can't hear anything. Your environment is void of any sound.
+  # - capture: (open.*?eyes)|(look)
+  #   then:
+  #     content: X
+  # - capture: move (around)?
+

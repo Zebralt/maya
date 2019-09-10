@@ -1,0 +1,10 @@
+title: A waking mind
+author: John Wick
+content: | 
+  You float in the void, shapeless. No manner of light or sound reaches you.
+  Try as you may, you can't recall how you were brought here. Your feel like your
+  memory is walled off in a wool-like material. There is no prying through.
+  
+choices:
+  - capture: .*
+    to: lookaround.yaml

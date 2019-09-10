@@ -1,0 +1,9 @@
+title:
+author:
+content: |
+  You can feel a round object under your left thumb. It feels like a button.
+  Maybe it's meant to be pressed ...
+
+choices:
+  - capture: (push)|(press)
+    to: r1open.yaml
